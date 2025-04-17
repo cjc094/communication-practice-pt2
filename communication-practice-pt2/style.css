@@ -18,6 +18,11 @@ body {
     text-align: center;
     color: #333;
   }
+
+  h5 {
+    text-align: center;
+    color: #666;
+  }
   
   form > div {
     margin-bottom: 20px;
